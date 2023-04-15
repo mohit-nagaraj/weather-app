@@ -2,6 +2,8 @@
   font-size: 23px;
   font-weight: 700;
   padding: 10px;
+  color: white;
+  opacity: 0.9;
 }
 
 .daily-item {
@@ -14,6 +16,7 @@
   display: flex;
   font-size: 14px;
   padding: 5px 20px;
+  opacity: 0.9;
 }
 
 .icon-small {
@@ -59,9 +62,9 @@
 }
 
 .daily-details-grid-item label:first-child {
-  color: #757575;
+  color: #e2e2e2;
 }
 
 .daily-details-grid-item label:last-child {
-  color: #212121;
+  color: #ffffff;
 }
