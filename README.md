@@ -6,4 +6,5 @@
 2. npm i react-select-async-paginate --force
 
 ## Demo
-[![Watch the video](https://user-images.githubusercontent.com/105775899/232200909-7baf158e-596c-4b85-89fb-c0ee4b2ee1a8.PNG)](https://youtu.be/NOAAFc_LlTw)
+[![Watch the video](https://user-images.githubusercontent.com/105775899/232200997-99cee404-303a-4381-a5f5-87f8a7e36d91.jpg)](https://youtu.be/NOAAFc_LlTw)
+
